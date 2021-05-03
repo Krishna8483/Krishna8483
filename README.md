@@ -2,7 +2,7 @@ Hi there this side Krishna,I am an environmentalist and an aspiring data scienti
 
 
 
-- 👋 Hi, I’m @Krishna8483
+- 👋 Hi, I’m #Krishna
 - 👀 I’m interested in ...Data Science,Astronomy,Environmental studies
 - 🌱 I’m currently learning ...Data science
 - 💞️ I’m looking to collaborate on ...AWS
